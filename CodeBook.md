@@ -4,7 +4,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 tidy_data contains both test and training data for only values of mean() and std() of measures.
 
-Column names and types alng with sample values are presented below.
+Column names and types along with sample values are presented below.
 
 $ Activity                   : Factor w/ 6 levels "LAYING","SITTING",..: 4 4 4 4 4 4 4 4 4 4 ...
  $ tBodyAcc-mean()-X          : num  0.231 0.331 0.376 0.233 0.236 ...
